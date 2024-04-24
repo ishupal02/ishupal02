@@ -1,8 +1,8 @@
 -  Hi, I’m @ishupal02
--  
+-  btech CSE 1st year student
 -  I’m currently learning python
   
--
+-  animation designer
   
 - 
 
