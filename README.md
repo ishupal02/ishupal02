@@ -1,7 +1,7 @@
 -  Hi, I’m @ishupal02
 -  PURSUING BTECH CSE SPECIALIZATION WITH AIML DEGREE
   
--  
+-  Python | HTML | CSS | JavaScript
   
 - 
 
