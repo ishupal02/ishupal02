@@ -1,9 +1,9 @@
 -  Hi, I’m @ishupal02
 -  PURSUING BTECH CSE SPECIALIZATION WITH AIML DEGREE
   
--  Python | HTML | CSS | JavaScript
+-  Python | HTML | CSS | JavaScript | C++ OOPS | DSA
   
-- 
+
 
 <!---
 ishupal02/ishupal02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
