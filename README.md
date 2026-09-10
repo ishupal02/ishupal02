@@ -127,7 +127,9 @@ Currently focused on:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishupal02/ishupal02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/ishupal02/ishupal02/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 </p>
 
 ---
