@@ -1,95 +1,172 @@
-👋 Hey, I'm Ishu Pal
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:6A5ACD&height=220&section=header&text=ISHU%20PAL&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-💻 B.Tech CSE Student | Java Developer | DSA Enthusiast | Web Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Student+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;C%2B%2B+%7C+Java+%7C+Python+%7C+SQL;DSA+%26+Problem+Solving+%F0%9F%A7%A9;Building+AI+%26+Web+Projects+%F0%9F%9A%80"/>
+</p>
 
-Welcome to my GitHub! 🚀
-I'm a Computer Science student passionate about software development, problem solving, and building real-world projects.
+<p align="center">
+  <a href="https://github.com/ishupal02">
+    <img src="https://komarev.com/ghpvc/?username=ishupal02&label=Profile%20Views&color=0072FF&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ishupal02?tab=followers">
+    <img src="https://img.shields.io/github/followers/ishupal02?style=for-the-badge&color=00C6FF&label=Followers"/>
+  </a>
+</p>
 
-I enjoy turning ideas into working applications and continuously improving my programming and development skills.
+---
 
+# 👋 Hi, I'm Ishu Pal
 
-🧑‍💻 About Me
+🎓 **AI/ML Student** passionate about software development, artificial intelligence and problem solving.
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- ☕ Learning Java & Object-Oriented Programming
-- 🧠 Practicing Data Structures & Algorithms
-- 🌐 Building websites using HTML, CSS & JavaScript
-- 🗄️ Working with MySQL
-- 🔧 Using Git & GitHub for version control and collaboration
-- 🌱 Exploring Software Engineering & Open Source
-- 🚀 Always learning, building and improving
+I enjoy building practical projects, learning new technologies and solving **Data Structures & Algorithms** problems.
 
+Currently focused on:
 
-🛠️ Tech Stack
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧩 Data Structures & Algorithms
+* 💻 C++ & Java
+* 🐍 Python & SQL
+* 🌐 Web Development
+* 🚀 Building real-world projects
 
-💻 Programming Languages
+---
 
-Java
-C++
-Python
-JavaScript 
-DSA
+# 🧠 What I'm Working On
 
-🌐 Web Development
+```text
+🤖 Artificial Intelligence
+        ↓
+🧠 Machine Learning
+        ↓
+🧩 Data Structures & Algorithms
+        ↓
+💻 Software Development
+        ↓
+🚀 Real-World Projects
+```
 
-HTML5
-CSS3
-JavaScript 
+---
 
-🗄️ Database & Tools
+# 🛠️ Tech Stack
 
-MySQL
-Git
-Github
+### 💻 Programming
 
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js"/>
+</p>
 
-🚀 Featured Projects
+### 🌐 Web & Database
 
-🌐 Personal Portfolio
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,mysql"/>
+</p>
 
-A responsive personal portfolio website showcasing my skills, projects, certifications, and development journey.
+### ⚙️ Tools
 
-Tech Used: HTML • CSS • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
+---
 
-📚 Kitabey — Online Book Reading Platform
+# 🚀 Featured Project
 
-A web-based platform built for users to explore and read books online with a simple and user-friendly interface.
+## 🌟 CodeLume
 
-Tech Used: HTML • CSS • JavaScript
+**CodeLume** is a unified coding-progress platform designed to bring coding activity and statistics from multiple competitive programming platforms into one place.
 
+### 🔥 Focus Areas
 
-🧠 Currently Learning
+`APIs` • `Web Development` • `DSA` • `Analytics` • `Competitive Programming`
 
-Java & OOP
-     ↓
-Data Structures & Algorithms
-     ↓
-Problem Solving
-     ↓
-Web Development
-     ↓
-Software Engineering
+### 🎯 Vision
 
+> One platform to understand your complete coding journey.
 
-📜 Certifications
+---
 
-- ☕ Java with OOPs — Cipher Schools
-- 🧠 Data Structures & Algorithms — iamneo
+# 🧩 DSA & Problem Solving
 
+<p align="center">
 
-🤝 Connect With Me
-LinkedIn 
-https://www.linkedin.com/in/ishupal0219/
+<img src="https://img.shields.io/badge/Data%20Structures-Expertise-0072FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Practice-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-GitHub 
-https://github.com/Ishupal02
+</p>
 
+> 💡 Consistently improving problem-solving skills through DSA practice and coding challenges.
 
-💭 Developer Quote
+---
 
-«"Code. Learn. Build. Repeat."»
+# 📊 GitHub Analytics
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishupal02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishupal02&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-Let's connect, collaborate and build something amazing together! 🚀
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishupal02&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishupal02&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishupal02/ishupal02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🧠 Master DSA & Advanced Algorithms
+* [ ] 🤖 Build more AI/ML projects
+* [ ] 🚀 Improve CodeLume
+* [ ] 🌐 Build production-ready applications
+* [ ] 💼 Prepare for software engineering opportunities
+* [ ] 🌍 Contribute more to Open Source
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/ishupal02">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ishupal0219/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, consider giving my repositories a star!</b>
+</p>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat. 🚀"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,50:00C6FF,100:6A5ACD&height=130&section=footer"/>
+</p>
